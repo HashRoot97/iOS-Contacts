@@ -12,6 +12,8 @@
 {
     IBOutlet UITableView *myTable;
     NSMutableArray *myArray;
+    NSMutableDictionary *nameDictionary;
+    NSArray *titles;
 }
 
 
